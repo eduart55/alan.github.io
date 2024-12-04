@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+    transition:1.3s all;
+}
+h1::after{
+    color: aquamarine;
+}
